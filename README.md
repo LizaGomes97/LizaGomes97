@@ -1,14 +1,16 @@
 <h1 align="center" style="color: #EB9326">Lizandra Ribeiro Gomes Placido dos Santos</h1>
 <p align="center">Estudante de Ciência da Computação <br> Focada em Desenvolvimento de Soluções Eficientes e Inovadoras</p>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://seu-portfolio.com](https://codestorm.dev.br/))<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandra-ribeiro-p-santos/)<br><br>
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/LizaGomes97)<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://seu-portfolio.com](https://codestorm.dev.br/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandra-ribeiro-p-santos/)  
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/LizaGomes97)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizandraplacido@gmail.com)
 
 
