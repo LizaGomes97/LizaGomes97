@@ -49,12 +49,6 @@
 </div>
 
 
-<h2 align="center"> 📋 Github Stats </h2>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LizaGomes97&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizaGomes97&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
 
 
