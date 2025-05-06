@@ -1,13 +1,17 @@
 <h1 align="center" style="color: #EB9326">Lizandra Ribeiro Gomes Placido dos Santos</h1>
-<p align="center">Estudante de Ciência da Computação | Focada em Desenvolvimento de Soluções Eficientes e Inovadoras</p>
+<p align="center">Estudante de Ciência da Computação <br> Focada em Desenvolvimento de Soluções Eficientes e Inovadoras</p>
+
 
 <h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandra-ribeiro-p-santos/)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/LizaGomes97)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://seu-portfolio.com](https://codestorm.dev.br/))<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandra-ribeiro-p-santos/)<br><br>
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/LizaGomes97)<br><br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizandraplacido@gmail.com)
+
+
 
 </div>
 
@@ -33,15 +37,15 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Tkinter](https://img.shields.io/badge/Tkinter-FFDB00?style=for-the-badge&logo=python&logoColor=black) |
+|---|---|---|---|
+| ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-005571?style=for-the-badge&logo=python&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white) |
+| ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![React.js](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |   |
+
+
 </div>
+
 
 <h2 align="center"> 📋 Github Stats </h2>
 
@@ -51,18 +55,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizaGomes97&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
 
-</div>
 
-<h2 align="center"> 📖 Cursos | Bootcamps | Palestras </h2>
-
-<div align="center">
-<p>
-🔹 Versionamento com Git e Github<br>
-🔹 Python<br>
-🔹 Introdução ao Desenvolvimento Front-End<br>
-🔹 Entendendo Comunicação Client x Server<br>
-🔹 Power BI<br>
-🔹 Liderança<br>
-🔹 A Era do CX<br>
-</p>
-</div>
