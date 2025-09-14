@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)]([https://seu-portfolio.com](https://codestorm.dev.br/))  
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://codestorm.dev.br/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandra-ribeiro-p-santos/)  
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/LizaGomes97)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizandraplacido@gmail.com)
